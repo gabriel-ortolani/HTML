@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Imagens </title>
+		<title>Inserirndo imagens </title>
 	</head>
 	<body>
-		<p>Imagens</p>	
-		<a> <img src="https://imgb.ifunny.co/images/6dc429b4b3ffd4df5e066a54254498a8ec3d0a05700b1629029e9c34962f7805_1.jpg" height="360">clthanos</a>
-		<a> <img src= "https://pa1.aminoapps.com/6262/2204bed866ac28568c284fabc9522694edcab3eb_hq.gif" height="360">link</a>
-	
+		<p>inserir Imagem via local</p>	
+		<a> <img src="kokushibo_imagem.webp" alt"" height="180"></a>
+		<p>inserir imagens via link</p>	
+		<a> <img src="https://imgb.ifunny.co/images/6dc429b4b3ffd4df5e066a54254498a8ec3d0a05700b1629029e9c34962f7805_1.jpg" alt"" height="280"></a>	
 	</body>
 </html>
