@@ -4,3 +4,4 @@ Códigos:
 
 * Primeira pagina web
 * ex01-estruturaBasica
+* ex02-paragrafoseTitulo
