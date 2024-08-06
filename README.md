@@ -2,4 +2,4 @@
 
 Projetos:
 
-* Primeiro site com hello world
+* Primeiro site
