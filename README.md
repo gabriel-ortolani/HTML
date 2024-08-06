@@ -1,5 +1,6 @@
-# 💻Projetos de HTML💻
+# 💻Códigos de HTML feitos em aula💻
 
-Projetos:
+Códigos:
 
-* Primeiro site
+* Primeira pagina web
+* ex01-estruturaBasica
