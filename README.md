@@ -7,3 +7,6 @@ Códigos:
 * ex02-paragrafoseTitulo
 * ex03-links
 * ex04-imagens
+* ex05-semantica
+* review de um filme
+* clone de site
