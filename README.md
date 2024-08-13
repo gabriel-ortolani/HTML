@@ -13,3 +13,5 @@ Códigos:
 * ex08-lista não ordenada
 * review de um filme
 * clone de site
+* desafio_imagem
+* desafio_lista
