@@ -9,5 +9,7 @@ Códigos:
 * ex04-imagens
 * ex05-semantica
 * ex06-tabela
+* ex07-lista ordenada
+* ex08-lista não ordenada
 * review de um filme
 * clone de site
