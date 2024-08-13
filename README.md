@@ -8,5 +8,6 @@ Códigos:
 * ex03-links
 * ex04-imagens
 * ex05-semantica
+* ex06-tabela
 * review de um filme
 * clone de site
