@@ -12,6 +12,7 @@ Códigos:
 * ex07-lista ordenada
 * ex08-lista não ordenada
 * ex09-formulario
+* ex10-formularioComSeletores
 * review de um filme
 * clone de site
 * desafio_imagem
