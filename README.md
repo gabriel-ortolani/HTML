@@ -14,6 +14,7 @@ Códigos:
 * ex09-formulario
 * ex10-formularioComSeletores
 * ex11-VideoeAudio
+* ex12-Outras Tags
 * review de um filme
 * clone de site
 * desafio_imagem
