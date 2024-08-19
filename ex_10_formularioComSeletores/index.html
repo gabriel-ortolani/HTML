@@ -8,12 +8,30 @@
 <body>
 
     <form action="">
-        <center>
         <p>Nome:</p><input type="text" name="nome">
+        <br><br>
+        <input type="checkbox" name="termodeconsentimento" id="">Eu aceito os <a href="">termo</a>
         <br>
-        <br>
-        <input type="checkbox" name="termodeconsentimento" id="">Eu aceito os <a href="">termos</a>.
-        </center>
+        <!-- value deixa um valor présetado  -->
+        <input type="text" name="nome" value="Gabriel">
+        <br><br>
+        <!-- placeholder deixa a sugestão de texto -->
+        <input type="text" name="endereco" placeholder="Digite aqui seu endereço">
+        <br><br>
+        <!-- O readonly faz com que o campo não possa ser alterado -->
+        <input type="text" name="escola" value="não alteravel" readonly>
+        <br><br>
+        <!-- disabled faz o campo ficar desabilitado -->
+        <input type="text" name="escola" value="Campo desabilitado" disabled>
+        <br><br>
+        <!-- maxlength faz com que limite a quantidade de caracteres que podem ser escritos -->
+        <input type="text" name="ano" value="limitado" maxlength="4">
+        <br><br>
+        <!-- required torna esse campo obrigatorio para ser preenchido -->
+        <input type="text" name="email" required>
+        <br><br>
+        <input type="submit" value="enviar">
     </form>
+
 </body>
 </html>
